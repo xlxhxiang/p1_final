@@ -1,0 +1,17 @@
+.game_wrapper{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+}
+
+.titleScreen{
+	/*using flex display style*/
+	display: flex;
+	justify-content: center;
+	align-self: center;
+	color: #FB7A70;
+	font-size: 1.5vw;
+}
